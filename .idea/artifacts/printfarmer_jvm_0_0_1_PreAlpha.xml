@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="printfarmer-jvm-0.0.1-PreAlpha">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="printfarmer-jvm-0.0.1-PreAlpha.jar">
+      <element id="module-output" name="printfarmer.jvmMain" />
+    </root>
+  </artifact>
+</component>
